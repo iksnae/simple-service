@@ -4,8 +4,10 @@
         "@types/node": "^10.0.0"
     },
     "dependencies": {
-        "@pulumi/pulumi": "^3.0.0",
         "@pulumi/aws": "^4.0.0",
-        "@pulumi/awsx": "^0.30.0"
+        "@pulumi/awsx": "^0.30.0",
+        "@pulumi/pulumi": "^3.11.0",
+        "aws-sdk": "^2.978.0",
+        "js-base64": "^3.6.1"
     }
 }
